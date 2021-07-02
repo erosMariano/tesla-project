@@ -25,3 +25,15 @@ a{
     transform: translateY(3px);
   }
 }
+
+
+body::-webkit-scrollbar-track {
+  background-color: #F4F4F4;
+}
+body::-webkit-scrollbar {
+  width: 10px;
+  background: #F4F4F4;
+}
+body::-webkit-scrollbar-thumb {
+  background: #dad7d7;
+}
